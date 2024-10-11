@@ -1,0 +1,38 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "image1.jpg"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "image2.jpg"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "image3.jpg"
+  },
+  {
+    "title": "React",
+    "imageSrc": "image5.jpg"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "image4.jpg"
+  },
+  {
+    "title":"Firebase",
+    "imageSrc":"image9.jpg"
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "image7.jpg"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "image6.jpg"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "image8.jpg"
+  }
+]
